@@ -1,0 +1,6 @@
+{
+    "env": {
+        "freshbooksLogin": "https://my.freshbooks.com/",
+        "freshbooksSameDay": "#/time-tracking?page=1&q=&searchDateType=date"
+    }
+}
